@@ -90,7 +90,7 @@ api.add_resource(Pizzas, "/pizzas")
 api.add_resource(RestaurantPizzas, "/restaurant_pizzas")
 
 
-# Run App
+
 
 
 if __name__ == "__main__":
